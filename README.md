@@ -37,5 +37,5 @@ The project is designed and simulated virtually on Wokwi.
 ---
 
 ##  Live Simulation
-* **Wokwi Project Link:* [Click here to view simulation](https://wokwi.com/projects/436471027140649985)
+* **Wokwi Project Link:* [Click here to view simulation](https://wokwi.com/projects/436471675054791681)
 
